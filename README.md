@@ -18,8 +18,5 @@ Languages and Tools:
 GitHub Stats
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=motari054&theme=gotham&hide_border=true)
-
-<br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=motari054&theme=gotham&show_icons=true&hide_border=true&layout=compact)
