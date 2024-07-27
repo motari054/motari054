@@ -19,4 +19,4 @@ GitHub Stats
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=motari054&theme=gotham&show_icons=true&hide_border=true&layout=compact)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?motari054&layout=compact&langs_count=7&theme=react"/>
