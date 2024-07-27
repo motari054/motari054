@@ -15,6 +15,15 @@ Languages and Tools:
 <br/>
 <br/>
 
+<hr/>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Skills" src="https://skillicons.dev/icons?i=js,ts,python,java,php,react,flutter,laravel,nodejs,flask,git,github,vscode,postman,mysql,firebase,vercel,docker,ubuntu&perline=13">
+  <img align="right" alt="pic" height="150" style="border-radius:50px;"  src="https://i.ibb.co/g71crS1/niko-oneshot.gif">
+</div>
+</hr>
+
 GitHub Stats
 
 
@@ -23,8 +32,4 @@ GitHub Stats
   <div style="flex: 1; flex-direction: row; width: 100%">
     <img height="180em" src="https://streak-stats.demolab.com/?user=motari054&count_private=false&theme=react"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=motari054&layout=compact&langs_count=7&theme=react"/>
-  </div>
-  <div style="flex: 1; flex-direction: row; width: 100%">
-    
-  </div>
 </div>
