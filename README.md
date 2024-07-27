@@ -8,7 +8,7 @@
 </div></br>
 
 <hr/>
-<div align="center" style="flex: 1;  flex-direction: column; width: 100%">
+<div style="flex: 1;  flex-direction: column; width: 100%">
   <div style="flex: 1; flex-direction: row; width: 100%">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=motari054&layout=compact&langs_count=7&theme=react"/>
 </div>
