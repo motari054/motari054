@@ -7,7 +7,9 @@
   <img align="center" alt="Skills" src="https://skillicons.dev/icons?i=js,ts,python,java,php,react,flutter,laravel,nodejs,flask,git,github,vscode,postman,mysql,firebase,vercel,docker,ubuntu&perline=13">
   <img align="right" alt="pic" height="150" style="border-radius:50px;"  src="https://i.ibb.co/g71crS1/niko-oneshot.gif">
 </div>
-</hr>
+
+
+<hr/>
 
 GitHub Stats
 
