@@ -4,10 +4,8 @@
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Skills" src="https://skillicons.dev/icons?i=js,react,tailwind,tensorflow,python,django,php,laravel,git,github,vscode,mysql,vercel,docker,&perline=13">
-  
-</div>
-
+  <img align="center" alt="Skills" src="https://skillicons.dev/icons?i=js,react,tailwind,tensorflow,python,django,php,laravel,git,github,vscode,mysql,vercel,docker,&perline=13"> 
+</div></br>
 
 <hr/>
 <div align="center" style="flex: 1;  flex-direction: column; width: 100%">
