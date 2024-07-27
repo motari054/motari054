@@ -1,7 +1,7 @@
 <img align="center" alt="Coding" width="800" src="https://camo.githubusercontent.com/65aab14f7e058fa3579cf7a151d18cb6c8fe7ad2101263a17f8474361867cd9d/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e6769662f">
 
 <hr/>
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"<b> Skills</b>>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Skills" src="https://skillicons.dev/icons?i=js,react,tailwind,tensorflow,python,django,php,laravel,git,github,vscode,mysql,vercel,docker,&perline=13">
