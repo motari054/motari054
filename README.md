@@ -7,7 +7,7 @@
   <img align="center" alt="Skills" src="https://skillicons.dev/icons?i=js,react,tailwind,tensorflow,python,django,php,laravel,git,github,vscode,mysql,vercel,docker,&perline=13"> 
 </div></br>
 
-<hr/>
+
 <div style="flex: 1;  flex-direction: column; width: 100%">
   <div style="flex: 1; flex-direction: row; width: 100%">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=motari054&layout=compact&langs_count=7&theme=react"/>
