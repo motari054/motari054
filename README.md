@@ -5,11 +5,15 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Skills" src="https://skillicons.dev/icons?i=js,react,tailwind,tensorflow,python,django,php,laravel,git,github,vscode,mysql,vercel,docker,&perline=13">
-  <img align="right" alt="pic" height="150" style="border-radius:50px;"  src="https://i.ibb.co/g71crS1/niko-oneshot.gif">
+  
 </div>
 
 
 <hr/>
+<div align="center" style="flex: 1;  flex-direction: column; width: 100%">
+  <div style="flex: 1; flex-direction: row; width: 100%">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=motari054&layout=compact&langs_count=7&theme=react"/>
+</div>
 
 
 
