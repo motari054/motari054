@@ -11,7 +11,6 @@
 <div style="flex: 1;  flex-direction: column; width: 100%">
   <div style="flex: 1; flex-direction: row; width: 100%">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=motari054&layout=compact&langs_count=7&theme=react"/>
-    <img src="https://raw.githubusercontent.com/motari054/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="GitHub Stats Languages" />
 </div>
 
 
